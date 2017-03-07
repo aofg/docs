@@ -1,8 +1,12 @@
 ---
 title: Content overview
+published: true
+---
+---
+title: Content overview
+navigation: Content
 ---
 
-# Content overview
 Each game needs a content and AOFG isn't an exception. 
 In a final state AOFG requires a lot of:
 - [Deep thoughtful story][1]
