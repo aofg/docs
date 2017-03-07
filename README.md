@@ -4,6 +4,8 @@ navigation: Getting started
 published: true
 ---
 
+![](2017-03-07-22-21-19.png)
+
 ## Project summary 
 Age of Guilds (_hereinafter the AOFG_): an open-sorce project to create completelly new MMORPG, primarily aimed to modding and customizing by users. AOFG based on next techologies:
 - [Unity3d](https://unity3d.com) is most friendly game engine with amazing features
