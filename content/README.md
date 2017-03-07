@@ -17,7 +17,7 @@ To come to the final state we should pass through whole pipeline:
 - [Lore] — core setup of story and world
 - [Design] — detailed book of rules
 - [Research] — search and analysis the data (ex. the history of religions)
-- [References] — collecting and structuring examples
+- [References] — collecting and structuring examples from other projects 
 - [Sketches] — process of finding the perfect shape and volume
 - [Concept Arts] — visual rules for continues works
 - [Promo artworks] — drawing artworks for promotion 
