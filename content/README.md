@@ -1,11 +1,9 @@
 ---
 title: Content overview
 published: true
----
----
-title: Content overview
 navigation: Content
 ---
+## List of works what should be done
 
 Each game needs a content and AOFG isn't an exception. 
 In a final state AOFG requires a lot of:

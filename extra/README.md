@@ -2,9 +2,6 @@
 title: Extra information
 published: true
 ---
----
-title: Extra information
----
 
 More information about project can be obtained from livestreams and blog:
 
