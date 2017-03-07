@@ -3,10 +3,8 @@ title: Age of Guilds Server
 navigation: Overview
 published: true
 ---
----
-title: Age of Guilds Server solution
----
 
+# Future plans to move on SpartialOS
 First version of AOFG and prototype is based on [ServUO](https://github.com/servuo/servuo), but in future we 'll move to [SpatialOS](https://spatialos.improbable.io/) completelly. If you're ready to research and help us to do this: go to discussion on ~~issue~~forum or join to gitter.
 
 ## Ultima Online as a reference
