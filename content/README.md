@@ -4,7 +4,6 @@ published: true
 navigation: Content
 ---
 ## List of works what should be done
-
 Each game needs a content and AOFG isn't an exception. 
 In a final state AOFG requires a lot of:
 - [Deep thoughtful story][1]
