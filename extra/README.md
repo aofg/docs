@@ -1,3 +1,7 @@
+---
+title: Extra information
+---
+
 # Extra information
 More information about project can be obtained from livestreams and blog:
 
