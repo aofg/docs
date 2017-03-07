@@ -25,9 +25,9 @@ Primary Age of Guilds can be splitted on four parts: server, client, content and
 
 Server            | Client            | Content             | Tools         	    | Exta           	 |
 ----------------- | ----------------- | ------------------- | --------------------- | ------------------ |
-[Overview] 		  | [Overview] 		  | [Overview] 			| [Overview]			| [Livestreaming]    |
-[ServUO]          | [Modules] 		  | [Outfit]            | [Monitoring] 			| [Dev blog] 		 |
-[SpatialOS]       | [Core] 			  | [Environment] 		| [Console] 		    | [Social Networks]  |
+[Overview][1]     | [Overview][2]     | [Overview][Content] | [Overview][Tools]     | [Livestreaming]    |
+[ServUO]          | [Modules]         | [Outfit]            | [Monitoring]          | [Dev blog] 		 |
+[SpatialOS]       | [Core]            | [Environment]       | [Console]             | [Social Networks]  |
 [Plugins]         | [World]           | [Concept Art]       | [Distributing]        | [Patreon]          |
 [Installation]    | [Avatars]         | [References]        | [Repository]          | [Donation]         |
 [Cloud]           | [UI]              |                     |                       |                    |
@@ -40,9 +40,9 @@ Each part of AOFG has two kind of documations: guides and api references. **Guid
 *(Menu above full of guides! Feel free to read them)*
 
 
-[Server]:server/README.md
+[1]:server/README.md
  [ServUO]:server/servuo.md
-[Client]:client/README.md
+[2]:client/README.md
  [Modules]:client/modules.md
  [Core]:client/core.md
  [World]:client/world.md
