@@ -1,9 +1,13 @@
 ---
 title: Getting started with Age of Guilds
 navigation: Getting started
+published: true
+---
+---
+title: Getting started with Age of Guilds
+navigation: Documentation
 ---
 
-# Getting started with Age of Guilds
 Age of Guilds (_hereinafter the AOFG_): an open-sorce project to create completelly new MMORPG, primarily aimed to modding and customizing by users. AOFG based on next techologies:
 - [Unity3d](https://unity3d.com) is most friendly game engine with amazing features
 - ~~[ServUO](https://github.com/ServUO/ServUO) is open source server)~~ (moved to SpatialOS)
