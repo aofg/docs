@@ -24,9 +24,11 @@ No matter what kind of system we're implementing, data, logic and bus is already
 - **Safe** — allow to user decide what kind of information is available for module (read\write rights)
 - **Strict** — strong conventions and one-way to implement
 
-Here is born next structure:
+Here is born the next structure:
 
 ![](/_static/client-structure-0.png)
+
+**Binary** is a final execution file of game. Any part of game
 
 [Unity3d]:https://unity3d.com
 [csharp]:#CSharp
