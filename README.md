@@ -19,8 +19,50 @@ Primary Age of Guilds can be splitted on four parts: server, client, content and
 3. [Content](content/) if you ready to help us on filling game with nice looking things
 4. [Tools](tools/) if you're looking for way to: work with mods, debug and profile game, compile game from sources
 
+### Main menu
+--------------------------------------------------------------------------------------------------------
 
-Server            | Client            | Content             | Tools           | Exta           |
------------------ | ----------------- | ------------------- | --------------- | -------------- |
-[Overview](server/README.md) | [Overview](client/README.md) | [Overview](content/README.md) | [Overview](tools/README.md) | [Livestreaming](extra/README.md#livestream) |
-[Overview](server/README.md) | [Overview](client/README.md) | [Overview](content/README.md) | [Overview](tools/README.md) | [Dev blog](extra/README.md#devlog) |
+
+Server            | Client            | Content             | Tools         	    | Exta           	 |
+----------------- | ----------------- | ------------------- | --------------------- | ------------------ |
+[Overview] 		  | [Overview] 		  | [Overview] 			| [Overview]			| [Livestreaming]    |
+[ServUO]          | [Modules] 		  | [Outfit]            | [Monitoring] 			| [Dev blog] 		 |
+[SpatialOS]       | [Core] 			  | [Environment] 		| [Console] 		    | [Social Networks]  |
+[Plugins]         | [World]           | [Concept Art]       | [Distributing]        | [Patreon]          |
+[Installation]    | [Avatars]         | [References]        | [Repository]          | [Donation]         |
+[Cloud]           | [UI]              |                     |                       |                    |
+                  | [Macros]          |                     |                       |                    |
+                  |                   |                     |                       |                    |
+
+## How to read documentation
+Each part of AOFG has two kind of documations: guides and api references. **Guides** is a first thing what you should to read, because guides uncovers basic cases of usage. **Api references** is a index of each part of system based *on code* and required base knowledge about system. 
+
+*(Menu above full of guides! Feel free to read them)*
+
+
+[Server]:server/README.md
+ [ServUO]:server/servuo.md
+[Client]:client/README.md
+ [Modules]:client/modules.md
+ [Core]:client/core.md
+ [World]:client/world.md
+ [Avatars]:client/avatars.md
+ [UI]:client/ui.md
+ [Macros]:client/macros.md
+[Content]:content/README.md
+ [Outfit]:content/outfit.md
+ [Environment]:content/environment.md
+ [Concept Art]:content/concept-art.md
+ [References]:content/references.md
+[Tools]:tools/README.md
+ [Overview]:tools/README.md#Overview
+ [Monitoring]:tools/README.md#Monitoring
+ [Console]:tools/README.md#Monitoring
+ [Distributing]:tools/README.md#Monitoring
+ [Repository]:tools/README.md#Monitoring
+[Extra]:extra/README.md
+ [Livestreaming]:extra/README.md#livestream
+ [Dev blog]:extra/README.md#devlog
+ [Social Networks]:extra/README.md#devlog
+ [Patreon]:extra/README.md#devlog
+ [Donation]:extra/README.md#devlog
