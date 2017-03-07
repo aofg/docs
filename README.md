@@ -7,4 +7,15 @@ Age of Guilds (_hereinafter the AOFG_): an open-sorce project to create complete
 - [Bintray](https://bintray.com) as a distribution platform
 
 ## Core structure of project
-Primary Age of Guilds can be splitted on four parts: server, client, content and tools. Each part is important
+Primary Age of Guilds can be splitted on four parts: server, client, content and tools. Each of them is very complex and first of all choice what is most interested for you at current moment:
+
+1. [Server](server/) is a good choice if you want to create your own world with unique list of rule
+2. [Client](client/) if you want to change experience of playing in MMORPG
+3. [Content](content/) if you ready to help us on filling game with nice looking things
+4. [Tools](tools/) if you're looking for way to: work with mods, debug and profile game, compile game from sources
+
+
+Server            | Client            | Content             | Tools           | Exta           |
+----------------- | ----------------- | ------------------- | --------------- | -------------- |
+[Overview](server/README.md) | [Overview](client/README.md) | [Overview](content/README.md) | [Overview](tools/README.md) | [Livestreaming](extra/README.md#livestream) |
+[Overview](server/README.md) | [Overview](client/README.md) | [Overview](content/README.md) | [Overview](tools/README.md) | [Dev blog](extra/README.md#devlog) |
