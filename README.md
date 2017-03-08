@@ -17,10 +17,10 @@ Age of Guilds (_hereinafter the AOFG_): an open-sorce project to create complete
 ## Core structure of project
 Primary Age of Guilds can be splitted on four parts: server, client, content and tools. Each of them is very complex and first of all choice what is most interested for you at current moment:
 
-1. [Server](server/) is a good choice if you want to create your own world with unique list of rule
-2. [Client](client/) if you want to change experience of playing in MMORPG
-3. [Content](content/) if you ready to help us on filling game with nice looking things
-4. [Tools](tools/) if you're looking for way to: work with mods, debug and profile game, compile game from sources
+1. [Server](/server/README.md) is a good choice if you want to create your own world with unique list of rule
+2. [Client](/client/README.md) if you want to change experience of playing in MMORPG
+3. [Content](/content/README.md) if you ready to help us on filling game with nice looking things
+4. [Tools](/tools/README.md) if you're looking for way to: work with mods, debug and profile game, compile game from sources
 
 ### Main menu
 --------------------------------------------------------------------------------------------------------
@@ -43,29 +43,29 @@ Each part of AOFG has two kind of documations: guides and api references. **Guid
 *(Menu above full of guides! Feel free to read them)*
 
 
-[1]:server/README.md
- [ServUO]:server/servuo.md
-[2]:client/README.md
- [Packages]:client/packages.md
- [Core]:client/core.md
- [World]:client/world.md
- [Avatars]:client/avatars.md
- [UI]:client/ui.md
- [Macros]:client/macros.md
-[Content]:content/README.md
- [Outfit]:content/outfit.md
- [Environment]:content/environment.md
- [Concept Art]:content/concept-art.md
- [References]:content/references.md
-[Tools]:tools/README.md
- [Overview]:tools/README.md#Overview
- [Monitoring]:tools/README.md#Monitoring
- [Console]:tools/README.md#Monitoring
- [Distributing]:tools/README.md#Monitoring
- [Repository]:tools/README.md#Monitoring
-[Extra]:extra/README.md
- [Livestreaming]:extra/README.md#livestream
- [Dev blog]:extra/README.md#devlog
- [Social Networks]:extra/README.md#devlog
- [Patreon]:extra/README.md#devlog
- [Donation]:extra/README.md#devlog
+[1]:/server/README.md
+ [ServUO]:/server/servuo.md
+[2]:/client/README.md
+ [Packages]:/client/packages.md
+ [Core]:/client/core.md
+ [World]:/client/world.md
+ [Avatars]:/client/avatars.md
+ [UI]:/client/ui.md
+ [Macros]:/client/macros.md
+[Content]:/content/README.md
+ [Outfit]:/content/outfit.md
+ [Environment]:/content/environment.md
+ [Concept Art]:/content/concept-art.md
+ [References]:/content/references.md
+[Tools]:/tools/README.md
+ [Overview]:/tools/README.md#Overview
+ [Monitoring]:/tools/README.md#Monitoring
+ [Console]:/tools/README.md#Monitoring
+ [Distributing]:/tools/README.md#Monitoring
+ [Repository]:/tools/README.md#Monitoring
+[Extra]:/extra/README.md
+ [Livestreaming]:/extra/README.md#livestream
+ [Dev blog]:/extra/README.md#devlog
+ [Social Networks]:/extra/README.md#devlog
+ [Patreon]:/extra/README.md#devlog
+ [Donation]:/extra/README.md#devlog
