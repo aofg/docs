@@ -63,3 +63,14 @@ function OnUpdate(dt)
 - [ECS and Rentitas](/client/ecs.md) — heart of AOFG as well as C# libraries
 - [Extensions API](/client/api/README.md) — easiest way to change someting
 - [Trusted libraries](/client/trusted.md)
+
+
+[client]:/client/README.md
+[IPackage]:/api/client/IPackage.md
+[Kernel]:/api/client/Kernel.md
+[Components]:/client/ecs.md#Component
+[Entity]:/client/ecs.md#Entity
+[Systems]:/client/ecs.md#Sytems
+[Pool]:/client/ecs.md#Pool
+[Scenario]:/client/ecs.md#Scenario
+[Trusted libraries]:/client/packages.md#Trusted
