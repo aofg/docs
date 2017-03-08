@@ -6,7 +6,7 @@ title: Client overview
 Age of Guilds client is fully written on [Unity3d]. Why we choice unity? Primary is expertize reasons: [Aler Denisov](@alerdenisov) has more than six years of experience with Unity. But in other hand unity have a lot of advantages, such as:
 - Friendly engine with nice learning curve
 - Excellent documentation and amount of training materials
-- CSharp is great as middleware language ([more details][csharp])
+- CSharp is great as middleware language
 - Great and huge community
 - Unlimited possibilities without low-level code
 
@@ -28,7 +28,10 @@ Here is born the next structure:
 
 ![](/_static/client-structure-0.png)
 
-**Binary** is a final execution file of game. Any part of game
+**Binary** is a final execution file of game that loads required (based on configs) list of dependencies (packages) from local cache or remote repository. **Package** is strict form of part of system. Final binary doesn't care about amount of packages required to 
+makes game live, but binary can to load them as well as execute.
+
+More information about [packages in a certain section][packages].
 
 [Unity3d]:https://unity3d.com
-[csharp]:#CSharp
+[packages]:/client/packages.md
