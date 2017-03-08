@@ -4,7 +4,7 @@ navigation: Getting started
 published: true
 ---
 
-![](_static/header-logotype.png)
+![](/_static/header-logotype.png)
 
 ## Project summary 
 Age of Guilds (_hereinafter the AOFG_): an open-sorce project to create completelly new MMORPG, primarily aimed to modding and customizing by users. AOFG based on next techologies:
